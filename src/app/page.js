@@ -15,7 +15,7 @@ export default function Home() {
     >
       <main className={styles.main}>
         <h3 className={styles.text}>
-          DB Investing Official Site{" "}
+          DB Investing Official Site{""}
           <span
             style={{ transform: "translate(0px)", display: "inline-block" }}
           >
